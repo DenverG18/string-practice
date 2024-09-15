@@ -12,10 +12,10 @@ let favActorname = 'Tom Holland';
 console.log('Uppercase: ' , favActorname.toLocaleUpperCase());
 
 let favActor = 'Tom Holland';
-console.log('Lowercase',favActor.toLowerCase());
+console.log('Lowercase: ',favActor.toLowerCase());
 
 let LowerCase = 'oreo';
-console.log('Fav Pet Name ' , LowerCase.toLocaleUpperCase());
+console.log('Fav Pet Name ' , LowerCase.toUpperCase());
 
 //APPEND
 let message = 'My Favorite Actor is  TOM HOLLAND';
